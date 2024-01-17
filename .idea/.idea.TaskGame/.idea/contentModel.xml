@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Drive D Without Windowe Files\Office Projects\TaskGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Adaptive Performance" t="Include">
+          <e p="Settings" t="Include" />
+        </e>
+        <e p="DOTween" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Imgs" t="Include" />
+          </e>
+          <e p="Modules" t="Include">
+            <e p="DOTweenModuleAudio.cs" t="Include" />
+            <e p="DOTweenModulePhysics.cs" t="Include" />
+            <e p="DOTweenModulePhysics2D.cs" t="Include" />
+            <e p="DOTweenModuleSprite.cs" t="Include" />
+            <e p="DOTweenModuleUI.cs" t="Include" />
+            <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+            <e p="DOTweenModuleUtils.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="Editor" t="Include">
+          <e p="com.unity.mobile.notifications" t="Include" />
+        </e>
+        <e p="Fonts" t="Include" />
+        <e p="Prefabs" t="Include">
+          <e p="EnemyPrefab" t="Include" />
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="EnemiesManager.cs" t="Include" />
+          <e p="EnemyBase.cs" t="Include" />
+          <e p="EnemyTxtAnimator.cs" t="Include" />
+          <e p="EventManager.cs" t="Include" />
+          <e p="GameConstant.cs" t="Include" />
+          <e p="GamePlayManager.cs" t="Include" />
+          <e p="GemCollector.cs" t="Include" />
+          <e p="JoystickController.cs" t="Include" />
+          <e p="MianCameraFollow.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="Rotater.cs" t="Include" />
+          <e p="WeaponManager.cs" t="Include" />
+          <e p="WeaponScriptableObject" t="Include" />
+          <e p="WeaponScripts" t="Include">
+            <e p="ShortGun.cs" t="Include" />
+            <e p="WeaponBase.cs" t="Include" />
+            <e p="WeaponInterface.cs" t="Include" />
+          </e>
+          <e p="WorrirBlades.cs" t="Include" />
+          <e p="Zombie.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="KennyTopDown" t="Include">
+            <e p="PNG" t="Include">
+              <e p="Hitman 1" t="Include" />
+              <e p="Man Blue" t="Include" />
+              <e p="Man Brown" t="Include" />
+              <e p="Man Old" t="Include" />
+              <e p="Robot 1" t="Include" />
+              <e p="Soldier 1" t="Include" />
+              <e p="Survivor 1" t="Include" />
+              <e p="Tiles" t="Include" />
+              <e p="Woman Green" t="Include" />
+              <e p="Zombie 1" t="Include" />
+            </e>
+          </e>
+          <e p="UI" t="Include">
+            <e p="Buttons" t="Include" />
+            <e p="Frame" t="Include" />
+          </e>
+        </e>
+        <e p="TilesPillet" t="Include">
+          <e p="BackGroundTiles" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Icons" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="TaskGame.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Yaseen\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Yaseen\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_TaskGame.1449413433.00" t="ExcludeRecursive" />
+  </component>
+</project>
